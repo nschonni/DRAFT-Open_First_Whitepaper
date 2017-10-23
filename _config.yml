@@ -1,0 +1,26 @@
+title: Open First Whitepaper
+description: This whitepaper captures our efforts to make the Government of Canada processes and services more transparent and accessible to our citizens with open standards, open source software, open government (code), open procurement and open culture.
+author:
+  name: Government of Canada
+
+repository: canada-ca/DRAFT-Open_First_Whitepaper
+
+languages:
+  - name: 'English'
+    key: 'en'
+  - name: 'Français'
+    key: 'fr'
+
+# Prose settings
+prose:
+  rooturl: ''
+
+plugins:
+  - jemoji
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-avatar
+  - jekyll-github-metadata
